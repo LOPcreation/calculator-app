@@ -1,0 +1,17 @@
+.gradle
+.idea
+*.iml
+build/
+dist/
+out/
+*.jks
+*.key
+*.keystore
+.DS_Store
+*.apk
+*.aab
+*.zip
+.env
+.env.local
+*.log
+.vscode/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator Pro</string>
+    <string name="calculator_tab">Calculator</string>
+    <string name="unit_conversion_tab">Unit Converter</string>
+    <string name="currency_conversion_tab">Currency Converter</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="equals">="</string>
+    <string name="error">Error</string>
+    <string name="no_result">No Result</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="loading">Loading...</string>
+    <string name="retry">Retry</string>
+    <string name="offline_mode">Offline Mode</string>
+</resources>
